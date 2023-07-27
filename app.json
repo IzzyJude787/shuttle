@@ -1,6 +1,6 @@
 {
-  "name": "Shuttle Proxy",
-  "description": "A simple web proxy",
+  "name": "Itzgroxy",
+  "description": "Pizza",
   "image": "heroku/nodejs",
   "addons": [],
   "buildpacks": [
